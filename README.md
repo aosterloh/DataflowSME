@@ -36,9 +36,6 @@ $ sh run0.sh
 7. Then complete your exercises in exercises directory. The solutions are in solutions dir.
 ```
 
-
-
-
 Streaming support for Python is currently in Beta for
 Dataflow, and there is a feature gap between Java and Python, see
 [limitations](https://beam.apache.org/documentation/sdks/python-streaming/#unsupported-features).
