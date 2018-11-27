@@ -16,7 +16,7 @@ included `Injector` program). All exercises write their output to BigQuery.
 __NOTE:__ Python examples (WIP) have been added, for additional instructions
 for running these examples
 
-## Python Setup
+## Python Setup (WIP but working examples)
 ```
 1. Create a GCE VM with “Allow full access to all Cloud APIs”.
 2. Login into it.
@@ -42,7 +42,7 @@ Dataflow, and there is a feature gap between Java and Python, see
 
 __Pull requests are encouraged!__
 
-## Set up your environment
+## Set up your JAVA environment
 
 ### Tools
 
